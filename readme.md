@@ -26,4 +26,4 @@ I'm a prisoner at ADNSU and I think that's enough info about me
 
 
 
-[![Spotify](https://novatorem-sans-wd.vercel.app/api/spotify)](https://open.spotify.com/user/313d2lyf2cabe7htqqg4ubnsrb54)
+[![Spotify](novatorem-seven-alpha.vercel.app/api/spotify)](https://open.spotify.com/user/313d2lyf2cabe7htqqg4ubnsrb54)
