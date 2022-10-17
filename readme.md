@@ -1,5 +1,5 @@
 
-<img align="center"  alt="GIF" height="45%" width="45%" src="https://github.com/sans-wd/gif/blob/main/doc_2022-10-17_17-38-06.gif" />
+<img align="right"  alt="GIF" height="45%" width="45%" src="https://github.com/sans-wd/gif/blob/main/doc_2022-10-17_17-38-06.gif" />
 ## Hi 👋, I'm Sevindik.Welcome to my Page 
 # 💫 About Me:
 I'm a prisoner at ADNSU and I think that's enough info about me
