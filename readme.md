@@ -29,7 +29,7 @@ I'm a prisoner at ADNSU and I think that's enough info about me
 [![](https://visitcount.itsvg.in/api?id=sans-wd&icon=2&color=11)](https://visitcount.itsvg.in)
 
 <h1> Spotify Playing : 🎧 </h1>
-<img align="right"  alt="GIF" height="45%" width="45%" src="https://github.com/sans-wd/gif/blob/main/animation.gif.gif" />
+<img align="right"  alt="GIF" height="42%" width="42%" src="https://github.com/sans-wd/gif/blob/main/animation.gif.gif" />
 
 <br>
 
