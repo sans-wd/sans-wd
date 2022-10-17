@@ -1,3 +1,4 @@
+## Hi 👋, I'm Sevindik.Welcome to my Page ![](https://github.com/sans-wd/gif/blob/main/doc_2022-10-17_17-38-06.gif)
 # 💫 About Me:
 I'm a prisoner at ADNSU and I think that's enough information
 
@@ -16,7 +17,7 @@ I'm a prisoner at ADNSU and I think that's enough information
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### Super Idol
-![](https://github.com/sans-wd/gif/blob/main/doc_2022-10-17_17-38-06.gif) ![](https://github.com/sans-wd/gif/blob/main/img8.gif)
+![](https://github.com/sans-wd/gif/blob/main/img8.gif)
 
 
 ---
