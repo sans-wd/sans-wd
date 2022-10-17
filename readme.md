@@ -3,7 +3,7 @@
 
 ## Hi 👋, I'm Sevindik.Welcome to my Page 
 
-<img align="right"  alt="GIF" height="45%" width="45%" src="https://github.com/sans-wd/gif/blob/main/IMG_3369.gif" />
+<img align="right"  alt="GIF" height="35%" width="35%" src="https://github.com/sans-wd/gif/blob/main/IMG_3369.gif" />
 
 # 💫 About Me:
 I'm a prisoner at ADNSU and I think that's enough info about me
