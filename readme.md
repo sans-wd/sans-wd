@@ -25,14 +25,11 @@ I'm a prisoner at ADNSU and I think that's enough info about me
 [![](https://visitcount.itsvg.in/api?id=sans-wd&icon=2&color=11)](https://visitcount.itsvg.in)
 
 
+<img align="right" alt="GIF" height="300px" width="35%" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+<h1> Spotify Playing : 🎧 </h1>
 
-[![Spotify](novatorem-seven-alpha.vercel.app/api/spotify)](https://open.spotify.com/user/313d2lyf2cabe7htqqg4ubnsrb54)
+[![Spotify](https://novatorem-seven-alpha.vercel.app/api/spotify)](https://open.spotify.com/user/313d2lyf2cabe7htqqg4ubnsrb54)
 
 
 
 
-<table width="100%"> 
-  <tr>
-  <td width="50%">
-
-&nbsp; <br> [![Spotify](novatorem-seven-alpha.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
