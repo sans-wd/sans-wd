@@ -27,3 +27,12 @@ I'm a prisoner at ADNSU and I think that's enough info about me
 
 
 [![Spotify](novatorem-seven-alpha.vercel.app/api/spotify)](https://open.spotify.com/user/313d2lyf2cabe7htqqg4ubnsrb54)
+
+
+
+
+<table width="100%"> 
+  <tr>
+  <td width="50%">
+
+&nbsp; <br> [![Spotify](novatorem-seven-alpha.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
