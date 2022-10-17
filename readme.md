@@ -1,4 +1,5 @@
-![](https://github.com/sans-wd/gif/blob/main/doc_2022-10-17_17-38-06.gif) ## Hi 👋, I'm Sevindik.Welcome to my Page 
+![](https://github.com/sans-wd/gif/blob/main/doc_2022-10-17_17-38-06.gif) 
+## Hi 👋, I'm Sevindik.Welcome to my Page 
 # 💫 About Me:
 I'm a prisoner at ADNSU and I think that's enough information
 
