@@ -27,7 +27,6 @@ I'm a prisoner at ADNSU and I think that's enough info about me
 
 <img align="right" alt="GIF" height="35%" width="35%" src="https://media1.giphy.com/media/u47BEpzW733OVBActo/giphy.gif?cid=790b76118b215d85cf1f9cc930a390c056cb98c805a8e54b&rid=giphy.gif&ct=s" />
 <h1> Spotify Playing : 🎧 </h1>
-
 [![Spotify](https://novatorem234-sans-wd.vercel.app/api/spotify)](https://open.spotify.com/user/313d2lyf2cabe7htqqg4ubnsrb54)
 
 
