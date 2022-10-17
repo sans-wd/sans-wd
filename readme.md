@@ -25,7 +25,7 @@ I'm a prisoner at ADNSU and I think that's enough info about me
 [![](https://visitcount.itsvg.in/api?id=sans-wd&icon=2&color=11)](https://visitcount.itsvg.in)
 
 
-<img align="right" alt="GIF" height="300px" width="35%" src="https://static.wixstatic.com/media/65340d_13cf291f54dc43b7b5158f1effe53a32~mv2.gif" />
+<img align="right" alt="GIF" height="300px" width="35%" src="https://images.squarespace-cdn.com/content/v1/568c67ab1c1210665122d1d9/1508206492528-L0RB6FEYT74V1Z7TEYJ0/spotify.gif?format=original" />
 <h1> Spotify Playing : 🎧 </h1>
 
 [![Spotify](https://novatorem234-sans-wd.vercel.app/api/spotify)](https://open.spotify.com/user/313d2lyf2cabe7htqqg4ubnsrb54)
