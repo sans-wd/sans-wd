@@ -30,8 +30,7 @@ I'm a prisoner at ADNSU and I think that's enough info about me
 
 <h1> Spotify Playing : 🎧 </h1>
 <img align="right"  alt="GIF" height="45%" width="45%" src="https://github.com/sans-wd/gif/blob/main/animation.gif.gif" />
-<br>
-<br>
+
 <br>
 
 [![Spotify](https://novatorem234-sans-wd.vercel.app/api/spotify)](https://open.spotify.com/user/313d2lyf2cabe7htqqg4ubnsrb54)
