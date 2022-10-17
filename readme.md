@@ -16,7 +16,7 @@ I'm a prisoner at ADNSU and I think that's enough information
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### Super Idol
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/23f7440e-3806-4f0d-b71f-8b64960a0c18/df82dlu-d4712d0e-cfc2-465b-b807-8fdb8ecf2584.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzIzZjc0NDBlLTM4MDYtNGYwZC1iNzFmLThiNjQ5NjBhMGMxOFwvZGY4MmRsdS1kNDcxMmQwZS1jZmMyLTQ2NWItYjgwNy04ZmRiOGVjZjI1ODQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.mXcbMrEUFTnzEtvL_-wZq54QESQmVHwEeZeYKy19nbA" width="512px"/>
+![](https://github.com/sans-wd/gif/blob/main/doc_2022-10-17_17-38-06.gif)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sans-wd&icon=2&color=11)](https://visitcount.itsvg.in)
