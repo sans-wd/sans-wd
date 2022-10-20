@@ -11,7 +11,7 @@ I'm a prisoner at ADNSU and I think that's enough info about me
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sevikos-safarov-899b5b157/)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discordapp.com/users/SANS_WD#4732)
-[![telegram](https://img.shields.io/badge/rzashakeri-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SANS_WD/)
+[![telegram](https://img.shields.io/badge/SANS_WD-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SANS_WD/)
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
