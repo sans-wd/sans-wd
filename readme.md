@@ -6,7 +6,6 @@
 
 # 💫 About Me:
 I'm a prisoner at ADNSU and I think that's enough info about me
-LinkedIn
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/Sevikos_Saf-0072b1?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sevikos-safarov-899b5b157/)
