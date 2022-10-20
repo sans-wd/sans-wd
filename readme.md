@@ -12,7 +12,7 @@ I'm a prisoner at ADNSU and I think that's enough info about me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sevikos-safarov-899b5b157/)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discordapp.com/users/SANS_WD#4732)
 [![Telegram](https://img.shields.io/badge/SANS_WD-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SANS_WD/)
-[![Discord](https://img.shields.io/badge/SANS_WD-2CA5E0?style=for-the-badge&logo=discord&logoColor=purple)](htttps://discord.gg/https://discordapp.com/users/SANS_WD#4732)
+[![Discord](https://img.shields.io/badge/SANS_WD-5865F2?style=for-the-badge&logo=discord&logoColor=purple)](htttps://discord.gg/https://discordapp.com/users/SANS_WD#4732)
 
 
 # 💻 Tech Stack:
