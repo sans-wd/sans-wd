@@ -10,6 +10,12 @@
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## Hi 👋, I'm Sevindik.Welcome to my Page 
 
