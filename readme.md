@@ -1,5 +1,12 @@
+<h1> Spotify Playing : 🎧 </h1>
+<img align="right"  alt="GIF" height="42%" width="42%" src="https://github.com/sans-wd/gif/blob/main/animation.gif.gif" />
 
-<img align="right"  alt="GIF" height="45%" width="45%" src="https://github.com/sans-wd/gif/blob/main/doc_2022-10-17_17-38-06.gif" />
+<br>
+
+[![Spotify](https://novatorem234-sans-wd.vercel.app/api/spotify)](https://open.spotify.com/user/313d2lyf2cabe7htqqg4ubnsrb54)
+
+
+<img align="right"  alt="GIF" height="45%" width="45%" src="https://github.com/sans-wd/gif/blob/main/IMG_3369.gif" />
 
 ## Hi 👋, I'm Sevindik.Welcome to my Page 
 
