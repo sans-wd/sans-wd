@@ -37,18 +37,10 @@ I'm a prisoner at ADNSU and I think that's enough info about me
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### Super Idol
-![](https://github.com/sans-wd/gif/blob/main/img8.gif)
 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sans-wd&icon=2&color=11)](https://visitcount.itsvg.in)
 
-<h1> Spotify Playing : 🎧 </h1>
-<img align="right"  alt="GIF" height="42%" width="42%" src="https://github.com/sans-wd/gif/blob/main/animation.gif.gif" />
-
-<br>
-
-[![Spotify](https://novatorem234-sans-wd.vercel.app/api/spotify)](https://open.spotify.com/user/313d2lyf2cabe7htqqg4ubnsrb54)
 
 
