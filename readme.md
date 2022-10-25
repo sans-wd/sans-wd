@@ -5,10 +5,6 @@
 
 [![Spotify](https://novatorem234-sans-wd.vercel.app/api/spotify)](https://open.spotify.com/user/313d2lyf2cabe7htqqg4ubnsrb54)
 
-
-
-[![Spotify](https://novatorem234-sans-wd.vercel.app/api/spotify)](https://open.spotify.com/user/313d2lyf2cabe7htqqg4ubnsrb54)
-
 <br>
 <br>
 <br>
