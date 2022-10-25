@@ -8,7 +8,7 @@
 <br>
 <br>
 <br>
-## 
+## bruuuuuuuuuuuuuuuuuuuuuuuuuuh
 <img align="right" align="right" width="40%" height="350px" src="https://github.com/sans-wd/gif/blob/main/IMG_3369.gif" alt="cover"/>
 
 ## Hi 👋, I'm Sevindik. Welcome to my Page 
