@@ -1,5 +1,5 @@
 <h1> Spotify Playing : 🎧 </h1>
-<img align="right"  alt="GIF" height="400px" width="45%" src="https://github.com/sans-wd/gif/blob/main/animation.gif.gif" />
+<img align="right"  alt="GIF" height="100px" width="45%" src="https://github.com/sans-wd/gif/blob/main/animation.gif.gif" />
 
 <br>
 
