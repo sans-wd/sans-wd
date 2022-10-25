@@ -10,8 +10,9 @@
 <br>
 
 ## Enjoy ☝☝☝☝☝☝☝☝☝☝☝☝☝☝☝☝☝☝☝
+<img height="45%" width="45%" src="https://github.com/sans-wd/gif/blob/main/IMG_3369.gif">
 
-<h1  display="inline-block"> Hi 👋, I'm Sevindik. Welcome to my Page : <img height="45%" width="45%" src="https://github.com/sans-wd/gif/blob/main/IMG_3369.gif"></h1>  
+##Hi 👋, I'm Sevindik. Welcome to my Page 
 
 
 # 💫 About Me:
