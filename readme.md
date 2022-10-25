@@ -10,7 +10,7 @@
 <br>
 
 ## ㅤㅤㅤㅤㅤ
-<img align="right" align="right" width="40%" height="350px" src="https://github.com/sans-wd/gif/blob/main/IMG_3369.gif" alt="cover"/>
+<img align="right" align="right" width="40%" height="45%" src="https://github.com/sans-wd/gif/blob/main/e18518c6d24257c6fb02e3c95a862d85.gif" alt="cover"/>
 
 ## Hi 👋, I'm Sevindik. Welcome to my Page 
 
